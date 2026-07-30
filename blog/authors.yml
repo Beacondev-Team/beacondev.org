@@ -1,0 +1,10 @@
+privateme:
+  name: PrivateMe
+  title: Founder of Beacondev
+  url: https://privateme.neocities.org
+  image_url: https://github.com/Beacondev-Team.png
+  page: true
+  socials:
+    x: privateme686
+    github: Beacondev-Team
+    email: privateme@beacondev.org
