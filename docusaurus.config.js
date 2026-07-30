@@ -119,7 +119,7 @@ const config = {
             items: [
               {
                 label: 'Get Started',
-                to: '/docs/start',
+                to: 'docs/category/getting-started',
               },
               {
                 label: 'Commands',

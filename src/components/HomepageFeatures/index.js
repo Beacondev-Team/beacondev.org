@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/server.svg').default,
     description: (
       <>
-        Want a bit more customisation? Want a custom name for your bot? Beacon is fully open source on [GitHub](https://github.com/Beacondev-Team/Beacon), meaning you can self host it if you wish.
+        Want a bit more customisation? Want a custom name for your bot? Beacon is fully open source on GitHub, meaning you can self host it if you wish.
       </>
     ),
   },
