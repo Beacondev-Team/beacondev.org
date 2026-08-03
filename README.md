@@ -28,16 +28,4 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
-Using SSH:
-
-```bash
-USE_SSH=true npm run deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> npm run deploy
-```
-
-If you are using GitHub Pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Push changes to this repo and it is built automatically by GitHub Actions. **Do not** use Docusaurus' built in command `npm run deploy` as it will attempt to push it to the main Beacon repo.
